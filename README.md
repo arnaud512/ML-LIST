@@ -7,3 +7,7 @@ https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd
 
 ## 🇫🇷 Links 
 https://www.udemy.com/le-deep-learning-de-a-a-z/
+
+
+## Understand
+https://playground.tensorflow.org/
