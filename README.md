@@ -1,6 +1,9 @@
 # ML-LIST
 
 ## 🇬🇧 Links
+https://www.coursera.org/specializations/deep-learning
+https://www.edx.org/professional-certificate/ibm-deep-learning
+https://www.udacity.com/school-of-ai
 https://cloud.google.com/blog/products/gcp/learn-tensorflow-and-deep-learning-without-a-phd
 https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd
 
